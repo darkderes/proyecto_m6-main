@@ -48,8 +48,8 @@ class Cadenas {
   // texto estaticos de pantalla resultScreen
   static String congratulationText = 'Felicidades';
   static String tryAgainText = 'Vuelva a intentarlo';
-  static String routeJsonSuccess = 'assets/json/success.json';
-  static String routeJsonError = 'assets/json/error.json';
+  static String routeJsonSuccess = 'assets/animated/success.json';
+  static String routeJsonError = 'assets/animated/error.json';
   static String textScore = 'You Score is';
   static String textStadistic = 'Estadisticas';
   static String backToMenu = 'Volver al menu';

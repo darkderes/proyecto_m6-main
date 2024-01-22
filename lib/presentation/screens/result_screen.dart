@@ -81,7 +81,7 @@ class ResultScreenState extends State<ResultScreen> {
             ),
           ),
           const SizedBox(
-            height: 20.0,
+            height: 10.0,
           ),
           SizedBox(
             width: MediaQuery.of(context).size.width * 0.5,

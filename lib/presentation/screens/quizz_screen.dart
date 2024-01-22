@@ -1,6 +1,6 @@
 import 'package:proyecto_m6/config/barrel_config.dart';
 import 'package:proyecto_m6/presentation/screens/result_screen.dart';
-import 'package:proyecto_m6/services/score_service.dart';
+
 
 class QuizzScreen extends StatefulWidget {
   final List<QuestionModel> questions;
