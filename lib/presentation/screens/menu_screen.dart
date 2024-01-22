@@ -68,6 +68,7 @@ class MenuScreen extends StatelessWidget {
                   },
                   child: Text(Cadenas.changeTheme)),
             ),
+            const SizedBox(height: 10),
             SizedBox(
               width: MediaQuery.of(context).size.width * 0.5,
               child: FilledButton(
