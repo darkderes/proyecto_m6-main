@@ -43,7 +43,7 @@ class Cadenas {
   static String nextText = 'Siguiente';
   static String viewResults = 'Ver resultados';
   static String routeSoundsCorrect = 'sounds/correct.mp3';
-  static String routeSoundsIncorrect = 'sounds/incorrect.mp3';
+  static String routeSoundsIncorrect = 'sounds/negative.mp3';
 
   // texto estaticos de pantalla resultScreen
   static String congratulationText = 'Felicidades';
